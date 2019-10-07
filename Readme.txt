@@ -3,4 +3,4 @@ Prácticas realizadas (optativas) o desarrollos personales (para linkedin) que g
 Descripción inicial
 **********************
 
-Práctica 0 ------> Desarrollo personal -----> Instalar Ubuntu 18 Desktop en portátil de 32bits.
+Práctica 0 ------> Desarrollo personal --->SEPT 2019 -----> Instalar Ubuntu 18 Desktop en portátil de 32bits.
